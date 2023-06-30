@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk&family=Playfair:wght@300&family=Ubuntu&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Hanken Grotesk", sans-serif;
+}
